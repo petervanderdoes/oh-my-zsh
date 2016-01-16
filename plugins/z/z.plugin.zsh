@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Copyright (c) 2009 rupa deadwyler under the WTFPL license
 
 # maintains a jump-list of the directories you actually use
@@ -241,7 +240,3 @@ elif complete >/dev/null 2>&1; then
         }
     }
 fi
-
-=======
-source "${0:h}/z.sh"
->>>>>>> upstream/master
